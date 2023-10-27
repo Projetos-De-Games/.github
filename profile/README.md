@@ -1,5 +1,9 @@
 ## Hi there 👋 How are you today?
 
+Welcome to our game studio!
+
+Here you will find the repositories of our game projects developed over the last months.
+
 <!--
 
 **Here are some ideas to get you started:**
